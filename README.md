@@ -17,5 +17,5 @@ foi desenvolvido a versão desktop e mobile.
 
 <div style="display: inline-block">
 <img src="https://github.com/devcarlosfilho/projeto1-responsive-easy-shopping/blob/main/assets/desktop.png?raw=true" width="70%"/>    
-  <img src="https://github.com/devcarlosfilho/projeto1-responsive-easy-shopping/blob/main/assets/mobile.png" width="20%"/>
+  <img src="https://github.com/devcarlosfilho/projeto1-responsive-easy-shopping/blob/main/assets/mobile.png" width="19.97%"/>
 </div>
